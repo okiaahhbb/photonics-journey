@@ -1,6 +1,6 @@
 # Photonics Journey 🔬
 
-Daily Python simulations toward KAUST VSRP / OIST Research Internship.
+Daily Python simulations 
 
 ## Progress
 - Day 01 — Waves and Interference
