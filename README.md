@@ -14,7 +14,15 @@ Daily Python simulations toward a world-class photonics research profile.
 | [Thin Film Anti-Reflection Coating](day05_diffraction_thinfilm.ipynb) | MgF₂ coating on glass, Transfer Matrix Method | Python, tmm |
 
 ---
+## 📁 Repository Structure
 
+| Folder | Content |
+|---|---|
+| `fundamentals/` | Waves, Snell's Law, Gaussian Beam, Fabry-Pérot, Diffraction, Thin Film, Nanoparticles |
+| `fiber_optics/` | Attenuation, WDM, EDFA |
+| `ml_photonics/` | Machine Learning for Photonics (coming soon) |
+
+---
 ## 📅 Daily Progress
 
 | Day | Topic | Key Concept |
